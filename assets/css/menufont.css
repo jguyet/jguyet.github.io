@@ -1,0 +1,141 @@
+body,
+p {
+	font-family: inherit;
+    font-weight: 400;
+}
+
+.button {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+.main-header.menu-type-standard-menu .standard-menu-container div.menu>ul>li>a,
+.main-header.menu-type-standard-menu .standard-menu-container ul.menu>li>a {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+.feature-block h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+.descript-block p {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+.feature-block p {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+.weather-icons h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+.title h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+.title p {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+.weather-icons p {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+#compatibility .title h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+#compatibility .title p {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+#get-a-copy h2 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+#footer p {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+.post-formatting .wp-caption .wp-caption-text {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+.widget.widget_product_search .search-bar input[name="s"],
+.widget.widget_search .search-bar input[name="s"] {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400
+}
+
+body,
+p {
+	font-size: 20px
+}
+
+.main-header.menu-type-standard-menu .standard-menu-container div.menu>ul>li>a,
+.main-header.menu-type-standard-menu .standard-menu-container ul.menu>li>a {
+	font-size: 20px
+}
+
+.feature-block h2 {
+	font-size: 30px
+}
+
+.feature-block p {
+	font-size: 20px
+}
+
+.weather-icons h2 {
+	font-size: 54px
+}
+
+.title h2 {
+	font-size: 64px
+}
+
+.title p {
+	font-size: 30px
+}
+
+.weather-icons p {
+	font-size: 29px
+}
+
+#compatibility .title h2 {
+	font-size: 52px
+}
+
+#compatibility .title p {
+	font-size: 21px
+}
+
+#get-a-copy h2 {
+	font-size: 35px
+}
+
+#footer p {
+	font-size: 18px
+}
+
+.post-formatting .wp-caption .wp-caption-text {
+	font-size: 16px
+}
+
+.widget.widget_product_search .search-bar input[name="s"],
+.widget.widget_search .search-bar input[name="s"] {
+	font-size: 18px
+}

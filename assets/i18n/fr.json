@@ -1,0 +1,143 @@
+{
+    "logo": {
+        "link": "#",
+        "1": "../../assets/img/logo.png",
+        "2": "../../assets/img/logo.png"
+    },
+    "slider": {
+        "first": "Jguyet Portfolio",
+        "second": "Developpeur FullStack"
+    },
+    "header": {
+        "rows": {
+            "scrollers": {
+                "about": {
+                    "id": "about",
+                    "name": "Déscription"
+                },
+                "skills": {
+                    "id": "skills",
+                    "name": "Compétences"
+                },
+                "realisation": {
+                    "id": "realisation",
+                    "name": "Réalisations"
+                },
+                "contact": {
+                    "id": "contact",
+                    "name": "Contact"
+                }
+            },
+            "links": {
+                "cv": {
+                    "name": "CV",
+                    "link": "../../assets/files/CV_Jguyet.pdf"
+                }
+            }
+        }
+    },
+    "about": {
+        "title": {
+            "h2": "Bienvenue sur mon portfolio",
+            "p": ""
+        },
+        "content": "Développeur depuis 2012 j'ai appris en autodidacte et avec 3 ans de formation à l'école 42 sur Paris, je suis passionné de programmation logiciel et web.<br><br>À mes débuts j'ai toujours passé beaucoup de temps à me documenter sur les nouveautés technologiques et j'essaie en permanence de trouver des idées ou conseils me permettant d'optimiser et d'affiner ma façon de travailler.<br><br>Je suis à votre écoute pour toutes créations, mise à jour ou correctif de vos projets.<br>Près à rejoindre votre cause en télétravail ou dans vos locaux.",
+        "img": "../../../assets/img/code.png"
+    },
+    "skills": {
+        "title": {
+            "h2": "Compétences",
+            "p": ""
+        },
+        "rows": {
+            "1": {
+                "img": "../../../assets/img/icons/angular.png",
+                "title": "AngularJS",
+                "content": ""
+            },
+            "2": {
+                "img": "../../../assets/img/icons/java.png",
+                "title": "Java",
+                "content": ""
+            },
+            "3": {
+                "img": "../../../assets/img/icons/wordpress.png",
+                "title": "WordPress",
+                "content": ""
+            },
+            "4": {
+                "img": "../../../assets/img/icons/php.png",
+                "title": "PHP",
+                "content": ""
+            },
+            "5": {
+                "img": "../../../assets/img/icons/node.png",
+                "title": "Nodejs",
+                "content": ""
+            },
+            "6": {
+                "img": "../../../assets/img/icons/spring.png",
+                "title": "Spring framework",
+                "content": ""
+            },
+            "7": {
+                "img": "../../../assets/img/icons/scala.png",
+                "title": "Scala",
+                "content": ""
+            },
+            "8": {
+                "img": "../../../assets/img/icons/d3.png",
+                "title": "d3js",
+                "content": ""
+            },
+            "9": {
+                "img": "../../../assets/img/icons/play.png",
+                "title": "Play framework",
+                "content": ""
+            }
+        }
+    },
+    "realisation": {
+        "title": {
+            "h2": "Réalisations",
+            "p": "Divers réalisations Client & Open-Sources"
+        },
+        "rows": {
+            "1": {
+                "content": "Bomberman 3D developper en c++<br>Projet de groupe avec 3amis<br>J'ai codé la partie moteur et UI",
+                "img": "../../../assets/img/rea/menu.png",
+                "link": "https://github.com/jguyet/Bomberman"
+            },
+            "2": {
+                "content": "Simple RPG fait avec Swing en recréant la gestion MVC, fonctionne aussi dans un shell.",
+                "img": "../../../assets/img/rea/1.png",
+                "link": "https://github.com/jguyet/Swingy"
+            },
+            "3": {
+                "content": "Reproduction du celebre jeu Agar.io en Javascript et Java avec la librairie d3js",
+                "img": "../../../assets/img/rea/img0.png",
+                "link": "https://github.com/jguyet/Agar.io"
+            },
+            "4": {
+                "content": "ft_vox est un projet d'introduction au moteur de voxel, inspiré de minecraft, dans lequel vous devez créer un monde généré aléatoirement.",
+                "img": "../../../assets/img/rea/vox.png",
+                "link": "https://github.com/jguyet/ft_vox"
+            },
+            "5": {
+                "content": "Un site web pour visualisé les compagnes publicitaire. travail réalisé chez Artefact pour Samsung.",
+                "img": "../../../assets/img/rea/samsung.png",
+                "link": "https://github.com/jguyet"
+            },
+            "6": {
+                "content": "Lebonclassement.com projet perso débuté décembre 2018.",
+                "img": "../../../assets/img/rea/lebonclassement.png",
+                "link": "https://lebonclassement.com"
+            }
+        }
+    },
+    "contact": {
+        "title": "Contact :",
+        "email": "jguyet.weoohh@gmail.com",
+        "phone": "(+33)6 83 01 47 54"
+    }
+}

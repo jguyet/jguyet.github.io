@@ -1,0 +1,238 @@
+@media screen and (min-width:770px) {
+	.mobile-menu-wrapper,
+	.mobile-menu-overlay,
+	.standard-menu-container .menu-bar-hidden-desktop {
+		display: none;
+	}
+}
+
+@media screen and (max-width:769px) {
+	.standard-menu-container>div,
+	.standard-menu-container>nav,
+	.main-header.menu-type-standard-menu .standard-menu-container div.menu>ul,
+	.main-header.menu-type-standard-menu .standard-menu-container ul.menu,
+	.menu-cart-icon-container {
+		display: none;
+	}
+}
+
+.main-header.menu-type-standard-menu .standard-menu-container div.menu>ul>li>a:after,
+.main-header.menu-type-standard-menu .standard-menu-container ul.menu>li>a:after {
+	height: 2px;
+}
+
+.centered {
+	text-align: center;
+}
+
+.feature-block {
+	text-align: center;
+	max-height: 220px;
+}
+
+@media (max-width:801px) {
+	.feature-block {
+		max-height: 250px;
+	}
+}
+
+.get-the-app a {
+	background: #fff;
+	color: #858a99 !important;
+	border-radius: 50px;
+	padding: 4px 15px;
+}
+
+.get-the-app a:hover {
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+	transition: box-shadow all 300ms;
+}
+
+.get-the-app a:after {
+	display: none;
+}
+
+#overview {
+	padding: 50px 0;
+}
+
+#features {
+	padding: 40px 0;
+}
+
+#features .section-title {
+	padding: 20px 0px 40px 0px;
+}
+
+#features img.attachment-full {
+	width: 20%;
+}
+
+@media screen and (min-width: 991px) {
+	.unique-icons-section-holder {
+		padding-left: 100px !important;
+	}
+}
+
+.weather-icons h3 {
+	line-height: 44px;
+}
+
+.weather-icons h3 img {
+	width: 44px;
+	margin-right: 20px;
+	float: left;
+}
+
+#compatibility img.attachment-full {
+	width: 50%;
+}
+
+#get-a-copy {
+	background-size: 142px;
+}
+
+#get-a-copy .phones img {
+	width: 423px;
+	height: 485px;
+}
+
+#get-a-copy .app-store img {
+	width: auto;
+	height: 53px !important;
+	float: left;
+	margin-right: 20px
+}
+
+.app-store {
+	padding-top: 39px;
+}
+
+.app-store a:after {
+	display: none;
+}
+
+.go-to-top {
+	margin: 35px;
+}
+
+.mobile-menu-wrapper .mobile-menu-container div.menu ul>li.current-menu-item>a,
+.mobile-menu-wrapper .mobile-menu-container ul.menu li.current-menu-item>a {
+	color: #1675df;
+}
+
+.post-formatting .wp-caption .wp-caption-text {
+	background: #eee;
+	color: #000 !important;
+}
+
+.blog-posts .post-item .post-details .post-title a:after {
+	display: none;
+}
+
+.comment-form textarea {
+	background-image: linear-gradient(#DDD 1px, transparent 1px);
+}
+
+.comment-form .button {
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+.example {
+	color: red !important;
+}
+
+@media screen and (max-width: 768px) {
+	.title h2,
+	.unique-icons-section h2,
+	#compatibility .title h2 {
+		font-size: 30px;
+	}
+	.title p,
+	.unique-icons-section p,
+	#compatibility .title p {
+		font-size: 22px;
+	}
+	.unique-icons-section h3 {
+		font-size: 22px;
+	}
+	.app-store {
+		text-align: center;
+		padding-top: 50px;
+	}
+	.phones {
+		display: none;
+	}
+	#overview {
+		padding: 10px 0;
+	}
+	#overview img {
+		margin-top: 10px;
+	}
+	#overview .section-title {
+		margin-bottom: 30px;
+	}
+	#features {
+		padding: 10px 0;
+	}
+	#features .section-title {
+		padding: 0;
+	}
+	.feature-block h2 {
+		font-size: 20px;
+	}
+	.feature-block p {
+		font-size: 18px;
+	}
+}
+
+@media screen and (min-width: 768px) {
+	.devices {
+		margin-top: 150px;
+	}
+	.feature-block h2 {
+		font-size: 20px;
+	}
+	.feature-block p {
+		font-size: 18px;
+	}
+}
+
+@media screen and (min-width: 992px) {
+	.devices {
+		margin-top: 70px;
+	}
+	.feature-block h2 {
+		font-size: 30px;
+	}
+	.feature-block p {
+		font-size: 20px;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	.devices {
+		margin-top: 70px;
+	}
+	.feature-block h2 {
+		font-size: 30px;
+	}
+	.feature-block p {
+		font-size: 20px;
+	}
+}
+
+@media (max-width:500px) {
+	.header-absolute header.main-header {
+		padding-bottom: 20px!important;
+    	padding-top: 20px!important;
+	}
+	.email {
+		font-size: 20px;
+	}
+	.phone {
+		font-size: 20px;
+	}
+}
