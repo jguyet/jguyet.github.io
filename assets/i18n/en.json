@@ -133,7 +133,8 @@
                 "img": "../../../assets/img/rea/lebonclassement.png",
                 "link": "https://lebonclassement.com"
             }
-        }
+        },
+        "button": "Watch"
     },
     "contact": {
         "title": "Contact :",
